@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "mysite\\Scripts\\python.exe"
+    "python.pythonPath": "mysite\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
